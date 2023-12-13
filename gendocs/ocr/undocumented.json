@@ -1,0 +1,54 @@
+{
+  "warnings": [
+    {
+      "file": "/Volumes/reid/codes/esandinfo/ios/ios-ocr/Esand-Ocr/AliyunHttpClient.h",
+      "line": 13,
+      "symbol": "AliyunHttpClient",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/reid/codes/esandinfo/ios/ios-ocr/Esand-Ocr/AliyunHttpClient.h",
+      "line": 15,
+      "symbol": "ClientCallback",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/reid/codes/esandinfo/ios/ios-ocr/Esand-Ocr/DataConversionUtils.h",
+      "line": 12,
+      "symbol": "DataConversionUtils",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/reid/codes/esandinfo/ios/ios-ocr/Esand-Ocr/OCRManager.h",
+      "line": 14,
+      "symbol": "currentToken",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/reid/codes/esandinfo/ios/ios-ocr/Esand-Ocr/OcrResult.h",
+      "line": 13,
+      "symbol": "OcrResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/reid/codes/esandinfo/ios/ios-ocr/Esand-Ocr/esand_ocr.h",
+      "line": 17,
+      "symbol": "esand_ocrVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/reid/codes/esandinfo/ios/ios-ocr/Esand-Ocr/esand_ocr.h",
+      "line": 20,
+      "symbol": "esand_ocrVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Volumes/reid/codes/esandinfo/ios/ios-ocr"
+}

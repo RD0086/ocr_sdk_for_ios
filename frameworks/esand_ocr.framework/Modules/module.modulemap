@@ -1,0 +1,6 @@
+framework module esand_ocr {
+  umbrella header "esand_ocr.h"
+
+  export *
+  module * { export * }
+}
