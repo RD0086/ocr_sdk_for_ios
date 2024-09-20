@@ -22,7 +22,7 @@ typedef void (^OCRCallback)(OcrResult* ocrResult);
 - (id) initWithViewController:(UIViewController*) vc;
 
 /// 执行OCR操作
-/// @param ocrType OCR类型，0：身份证正面，1：身份证背面
+/// @param ocrType OCR类型，0：身份证正面，1：身份证背面，666: 不做识别，只返回照片 (token传入nil即可)
 /// @param token 初始化拿到的token字符串
 /// @param from 0: 从相机拍摄，1：从相册获取
 /// @param ocrCallBack 执行结果回调
